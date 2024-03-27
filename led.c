@@ -1,8 +1,8 @@
-/*
+/*assign1-Q.1 to blink leds in clockwise 
  * led.c
  *
  *  Created on: Mar 27, 2024
- *      Author: muskan
+ *      Author: Bhagyashri
  */
 
 #include "led.h"
